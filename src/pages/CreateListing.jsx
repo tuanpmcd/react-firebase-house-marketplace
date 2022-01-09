@@ -45,8 +45,6 @@ function CreateListing() {
     regularPrice,
     discountedPrice,
     images,
-    latitude,
-    longitude,
   } = formData
 
   const auth = getAuth()

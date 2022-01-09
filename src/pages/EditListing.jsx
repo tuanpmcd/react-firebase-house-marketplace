@@ -46,8 +46,6 @@ function EditListing() {
     regularPrice,
     discountedPrice,
     images,
-    latitude,
-    longitude,
   } = formData
 
   const auth = getAuth()
